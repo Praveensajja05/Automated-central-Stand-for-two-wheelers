@@ -96,3 +96,13 @@ void stopMotor() {
   digitalWrite(relayForward, RELAY_OFF);
   digitalWrite(relayReverse, RELAY_OFF);
 }
+```
+---
+## TEAM MEMBERS
+* Team Members :
+ *   - Sajja Dora Raja Praveen
+ *   - Banoth Samithlal
+ *   - Mardana Naveen
+ *   - Ramavath Manthru Naik
+ *   - Reddi Yogendhra Babu
+ *   - Yadavalli Akshay Kumar
